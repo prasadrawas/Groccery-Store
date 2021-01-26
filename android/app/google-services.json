@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "228401773764",
+    "project_id": "dattakripa-dc628",
+    "storage_bucket": "dattakripa-dc628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228401773764:android:1370d1dcb2c779d3be5d91",
+        "android_client_info": {
+          "package_name": "com.example.akshaystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228401773764-knftgjhic6otmv6e5ad3djhkrm9rbvgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akshaystore",
+            "certificate_hash": "a73883443fdc9cebb161bbded7581eb01cfb3af2"
+          }
+        },
+        {
+          "client_id": "228401773764-obseln862gcahrvqt5gsqpmv0juo8fd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEqvekybMtmZGUJiFrkoUB2qV2-ZaRw2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228401773764-obseln862gcahrvqt5gsqpmv0juo8fd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
